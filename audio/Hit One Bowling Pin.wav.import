@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hit One Bowling Pin.wav-b7b92e6ff0674decb8c96a1eacf3e0dd.sample"
+
+[deps]
+
+source_file="res://audio/Hit One Bowling Pin.wav"
+dest_files=[ "res://.import/Hit One Bowling Pin.wav-b7b92e6ff0674decb8c96a1eacf3e0dd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
